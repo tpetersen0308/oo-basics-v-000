@@ -16,5 +16,5 @@ class Book
   end
 
   
-  
+
 end
